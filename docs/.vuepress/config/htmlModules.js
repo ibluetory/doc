@@ -19,41 +19,41 @@
  */
 
 
-module.exports = {
-  // 万维广告
-  pageT: `
-  <div class="wwads-cn wwads-horizontal page-ad" data-id="136" style="width:100%;max-height:80px;min-height:auto;"></div>
-  <style>
-    .page-ad img{
-      width:80px!important;
-    }
-    .wwads-horizontal .wwads-content{
-      display: flex;
-      align-items: center;
-    }
-    .wwads-horizontal .wwads-text, .wwads-content .wwads-text{
-      line-height:1;
-      flex: 1;
-      height: 100%;
-      display: flex;
-      align-items: center;
-    }
-    .wwads-horizontal .wwads-poweredby, .wwads-vertical .wwads-poweredby{display: none;!important;}
-  </style>
-  `,
-  // windowRB: `
-  //   <div class="wwads-cn wwads-vertical windowRB" data-id="136" style="max-width:160px;
-  //   min-width: auto;min-height:auto;"></div>
-  //   <style>
-  //     .windowRB{ padding: 0;}
-  //     .windowRB .wwads-img{margin-top: 10px;}
-  //     .windowRB .wwads-content{margin: 0 10px 10px 10px;}
-  //     .custom-html-window-rb .close-but{
-  //       display: none;
-  //     }
-  //   </style>
-  // `
-}
+// module.exports = {
+//   // 万维广告
+//   pageT: `
+//   <div class="wwads-cn wwads-horizontal page-ad" data-id="136" style="width:100%;max-height:80px;min-height:auto;"></div>
+//   <style>
+//     .page-ad img{
+//       width:80px!important;
+//     }
+//     .wwads-horizontal .wwads-content{
+//       display: flex;
+//       align-items: center;
+//     }
+//     .wwads-horizontal .wwads-text, .wwads-content .wwads-text{
+//       line-height:1;
+//       flex: 1;
+//       height: 100%;
+//       display: flex;
+//       align-items: center;
+//     }
+//     .wwads-horizontal .wwads-poweredby, .wwads-vertical .wwads-poweredby{display: none;!important;}
+//   </style>
+//   `,
+//   // windowRB: `
+//   //   <div class="wwads-cn wwads-vertical windowRB" data-id="136" style="max-width:160px;
+//   //   min-width: auto;min-height:auto;"></div>
+//   //   <style>
+//   //     .windowRB{ padding: 0;}
+//   //     .windowRB .wwads-img{margin-top: 10px;}
+//   //     .windowRB .wwads-content{margin: 0 10px 10px 10px;}
+//   //     .custom-html-window-rb .close-but{
+//   //       display: none;
+//   //     }
+//   //   </style>
+//   // `
+// }
 
 
 // module.exports = {
